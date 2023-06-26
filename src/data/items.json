@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=4ef9996fbe97303a651e4874c798620c9aac965d-4957434-images-thumbs&n=13"
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "price": 1199,
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=c58283681ff4d64ac10df66b62c4a50e9cbf14a9-8487535-images-thumbs&n=13"
+  },
+  {
+    "id": 3,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=48342abdaf5cdb47ac97d03428d39a68d55a7513-8425275-images-thumbs&n=13"
+  },
+  {
+    "id": 4,
+    "name": "Car",
+    "price": 14000,
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=89119535a49b951e5779fb414164cef4fb6b2a0e-9069209-images-thumbs&n=13"
+  },
+  {
+    "id": 5,
+    "name": "Laptop",
+    "price": 11000,
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=214b7ade779dadcac7edf0b1a670d36fec62fbbb-8497636-images-thumbs&n=13"
+  },
+  {
+    "id": 6,
+    "name": "Home",
+    "price": 190000,
+    "imgUrl": "https://avatars.mds.yandex.net/i?id=ed0b126f60987290830c4b8f49874ae4769f5fed-5233564-images-thumbs&n=13"
+  }
+
+]
